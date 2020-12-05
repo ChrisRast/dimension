@@ -738,7 +738,8 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"],
-button {
+button,
+.button {
   line-height: calc(2.75rem - 2px); }
 
 /* BG */
